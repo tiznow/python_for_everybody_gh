@@ -1,0 +1,26 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 8: Explain each of the following using an example of a human
+            capability: (1) Central processing unit, (2) Main Memory,
+            (3) Secondary Memory, (4) Input Device, (5) Output Device. For
+            example, "What is the human equivalent to a Central Processing
+            unit"?
+
+Answer:
+
+(1) Central processing unit = human brain to process information
+
+(2) Main Memory = memory part of the human brain to store information
+
+(3) Secondary Memory = writing notes in a notebook
+
+(4) Input Device = human sight to read information
+
+(5) Output Device = human mouth (voice) to convey information

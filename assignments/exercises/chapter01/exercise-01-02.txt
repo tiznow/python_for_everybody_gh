@@ -1,0 +1,15 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 2: What is a program?
+
+Answer:
+
+A program is a sequence of statements, expressed in a programming language, that
+a computer can execute.

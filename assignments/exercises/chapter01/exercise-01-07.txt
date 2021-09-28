@@ -1,0 +1,24 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 7: What will the following program print out:
+
+            >>> x = 43
+            >>> x = x + 1
+            >>> print(x)
+
+a) 43
+
+b) 44
+
+c) x + 1
+
+d) Error because x = x + 1 is not possible mathematically
+
+Answer: b

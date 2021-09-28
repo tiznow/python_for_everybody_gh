@@ -1,0 +1,20 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 1: What is the functionn of the secondary memory in a computer?
+
+a) Execute all of the computation and logic of the program
+
+b) Retrieve web pages over the internet
+
+c) Store information for the long term, even beyond a power cycle
+
+d) Take input from the user
+
+Answer: c

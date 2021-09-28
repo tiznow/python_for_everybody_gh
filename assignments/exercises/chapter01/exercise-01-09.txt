@@ -1,0 +1,13 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 9: How do you fix a "Syntax Error"?
+
+Answer: follow the traceback to the place in the program's source code where
+        the syntax error occurs. Correct the syntax error.

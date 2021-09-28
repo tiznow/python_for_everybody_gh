@@ -1,0 +1,18 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 3: What is the difference between a compiler and an interpreter?
+
+Answer:
+
+A compiler converts high-level language into low-level language all at once. A
+compiler does not execute or run the converted code.
+
+An interpreter converts high-level language into low-level language one line at
+a time. It converts and executes the code as the program is being run.

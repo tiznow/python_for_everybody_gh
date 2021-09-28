@@ -1,0 +1,22 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 5: What is wrong with the following code:
+
+>>> primt 'Hello world!'
+File "<stdin>", line 1
+  primt 'Hello world!'
+
+SyntaxError: invalid syntax
+>>>
+
+Answer:
+
+The built-in function 'print' is misspelled. The string 'Hello world' should be
+enclosed in braces ().

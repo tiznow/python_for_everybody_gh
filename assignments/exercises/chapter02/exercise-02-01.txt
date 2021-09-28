@@ -1,0 +1,23 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      05/31/2021
+#
+#-------------------------------------------------------------------------------
+
+Exercise 1: Type the following statements in the Python Interpreter to see what
+            they do:
+
+            >>> 5
+            >>> x = 5
+            >>> x + 1
+
+Answer:
+
+>>> 5        // outputs the integer 5
+
+>>> x = 5    // assigns the integer value 5 to the variable x
+
+>>> x + 1    // outputs the value 6
