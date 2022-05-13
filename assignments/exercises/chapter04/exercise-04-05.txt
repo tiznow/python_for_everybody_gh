@@ -1,0 +1,28 @@
+#-------------------------------------------------------------------------------
+# Course:    Python for Everybody
+#
+# Student:   Christopher Martinez
+#
+# Date:      09/29/2021
+#
+#
+# Specification:
+#
+# Exercise 5: What will the following Python program print out?
+#
+# def fred():
+#     print("Zap")
+#
+# def jane():
+#
+#     print("ABC")
+#
+# jane()
+# fred()
+# jane()
+#
+#
+# Answer:
+#
+# ABC Zap ABC
+#-------------------------------------------------------------------------------
